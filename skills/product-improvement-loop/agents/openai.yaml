@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Improvement Loop"
+  short_description: "Autonomously improve an existing product"
+  default_prompt: "Use $product-improvement-loop to inspect this product, implement the strongest justified improvement, and verify the result."
