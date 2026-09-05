@@ -9,7 +9,7 @@ Portable skills for AI agents.
 Install the Medium workflow:
 
 ```bash
-npx skills add https://github.com/vivekkartha/agent-skills --skill medium-seo-publisher
+npx skills add https://github.com/vivekkartha/medium-seo-publisher
 ```
 
 Choose your agent when prompted. To install it for every supported agent, add
@@ -27,7 +27,7 @@ Use medium-seo-publisher to research a topic and prepare a Medium article.
 ### `medium-seo-publisher`
 
 Research attainable keywords, write voice-matched Medium articles, and publish
-only when explicitly requested. [Read its README.](skills/medium-seo-publisher/README.md)
+only when explicitly requested. [Open its dedicated repository.](https://github.com/vivekkartha/medium-seo-publisher)
 
 ### `product-improvement-loop`
 
