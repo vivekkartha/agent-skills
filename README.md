@@ -2,6 +2,8 @@
 
 A focused collection of reusable skills for AI coding agents.
 
+[![skills.sh](https://skills.sh/b/vivekkartha/agent-skills)](https://skills.sh/vivekkartha/agent-skills)
+
 Skills use the portable `SKILL.md` convention. Platform-specific metadata lives
 inside each skill package so Codex, Grok, and other agent runtimes can be
 supported without coupling the repository to one vendor.
