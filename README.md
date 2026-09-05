@@ -35,5 +35,5 @@ skill's `SKILL.md` and relative reference files directly.
 Invoke it with:
 
 ```text
-$product-improvement-loop
+Use medium-seo-publisher to research a topic and prepare a Medium article.
 ```
